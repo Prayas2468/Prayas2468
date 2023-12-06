@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prayas2468
-- 👀 I’m interested in codinfg
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning cse
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me "just text me"
